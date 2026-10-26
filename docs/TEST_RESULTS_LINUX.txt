@@ -1,0 +1,26 @@
+LiveAudioHost 0.3.0 CORE VALIDATION — 2026-10-22
+==============================================
+Platform: Linux container; NO JUCE / Windows / Midas M32R connected.
+
+GCC 14.2.0 / CMake 3.31.6 / Ninja / C++17
+- Build pure core tests + offline TF CLI: PASS
+- CTest: 3/3 PASS: lah_core, lah_extended, lah_validation
+
+GCC 14.2.0 / AddressSanitizer + UndefinedBehaviorSanitizer
+- Build pure core + offline TF CLI: PASS
+- CTest: 3/3 PASS
+
+Clang 17.0.0 / CMake 3.31.6 / Ninja / Release
+- Build pure core + offline TF CLI: PASS
+- CTest: 3/3 PASS
+
+Independent benchmark: SciPy (NumPy + scipy.signal.welch/csd)
+- Synthetic two-channel normal noise; gain 0.5; delay 1024 samples @48k
+- 1693 reliable bins 80-10k Hz; Hann 8192, 50% overlap
+- Max deviation <0.001 dB magnitude, <0.001 degree phase, <0.00001 coherence
+- Inferred delay 21.3333 ms (1024 samples/48000)
+- PASS. Source: tools/independent_reference_check.py
+
+Not measured/tested: M32R LIVE driver / ASIO / USB channels; GUI JUCE on Windows,
+VST3 compatibility, realtime callback deadline, physical roundtrip latency, IEC SPL calibration,
+acoustic venue comparisons, and failure-injection / soak testing.

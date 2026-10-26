@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LiveAudioHostScene schema="2" inputGain0="0.0" inputGain1="0.0" inputGain2="0.0"
+                    inputGain3="0.0" inputGain4="0.0" inputGain5="0.0" inputGain6="0.0"
+                    inputGain7="-4.300000190734863" inputGain8="0.0" inputGain9="0.0"
+                    inputGain10="0.0" inputGain11="0.0" inputGain12="0.0" inputGain13="0.0"
+                    inputGain14="0.0" inputGain15="0.0" inputGain16="0.0" inputGain17="0.0"
+                    inputGain18="0.0" inputGain19="0.0" inputGain20="0.0" inputGain21="0.0"
+                    inputGain22="0.0" inputGain23="0.0" inputGain24="0.0" inputGain25="0.0"
+                    inputGain26="0.0" inputGain27="0.0" inputGain28="0.0" inputGain29="0.0"
+                    inputGain30="0.0" inputGain31="0.0" inputMute0="0.0" inputMute1="0.0"
+                    inputMute2="0.0" inputMute3="1.0" inputMute4="0.0" inputMute5="0.0"
+                    inputMute6="0.0" inputMute7="0.0" inputMute8="0.0" inputMute9="0.0"
+                    inputMute10="0.0" inputMute11="0.0" inputMute12="0.0" inputMute13="0.0"
+                    inputMute14="0.0" inputMute15="0.0" inputMute16="0.0" inputMute17="0.0"
+                    inputMute18="0.0" inputMute19="0.0" inputMute20="0.0" inputMute21="0.0"
+                    inputMute22="0.0" inputMute23="0.0" inputMute24="0.0" inputMute25="0.0"
+                    inputMute26="0.0" inputMute27="0.0" inputMute28="0.0" inputMute29="0.0"
+                    inputMute30="0.0" inputMute31="0.0" inputPan0="0.0" inputPan1="0.0"
+                    inputPan2="0.0" inputPan3="0.0" inputPan4="0.0" inputPan5="0.0"
+                    inputPan6="0.0" inputPan7="0.0" inputPan8="0.0" inputPan9="0.0"
+                    inputPan10="0.0" inputPan11="0.0" inputPan12="0.0" inputPan13="0.0"
+                    inputPan14="0.0" inputPan15="0.0" inputPan16="0.0" inputPan17="0.0"
+                    inputPan18="0.0" inputPan19="0.0" inputPan20="0.0" inputPan21="0.0"
+                    inputPan22="0.0" inputPan23="0.0" inputPan24="0.0" inputPan25="0.0"
+                    inputPan26="0.0" inputPan27="0.0" inputPan28="0.0" inputPan29="0.0"
+                    inputPan30="0.0" inputPan31="0.0" eqDb0="0.0" eqDb1="0.0" eqDb2="0.0"
+                    eqDb3="0.0" eqDb4="0.0" eqDb5="0.0" eqDb6="0.0" eqDb7="0.0" eqDb8="0.0"
+                    eqDb9="0.0" eqDb10="0.0" eqDb11="0.0" eqDb12="0.0" eqDb13="0.0"
+                    eqDb14="0.0" eqDb15="0.0" eqDb16="0.0" eqDb17="0.0" eqDb18="0.0"
+                    eqDb19="0.0" eqDb20="0.0" eqDb21="0.0" eqDb22="0.0" eqDb23="0.0"
+                    eqDb24="0.0" eqDb25="0.0" eqDb26="0.0" eqDb27="0.0" eqDb28="0.0"
+                    eqDb29="0.0" eqDb30="0.0" eqDb31="0.0" eqHz0="1000.0" eqHz1="1000.0"
+                    eqHz2="1000.0" eqHz3="1000.0" eqHz4="1000.0" eqHz5="1000.0" eqHz6="1000.0"
+                    eqHz7="1000.0" eqHz8="1000.0" eqHz9="1000.0" eqHz10="1000.0"
+                    eqHz11="1000.0" eqHz12="1000.0" eqHz13="1000.0" eqHz14="1000.0"
+                    eqHz15="1000.0" eqHz16="1000.0" eqHz17="1000.0" eqHz18="1000.0"
+                    eqHz19="1000.0" eqHz20="1000.0" eqHz21="1000.0" eqHz22="1000.0"
+                    eqHz23="1000.0" eqHz24="1000.0" eqHz25="1000.0" eqHz26="1000.0"
+                    eqHz27="1000.0" eqHz28="1000.0" eqHz29="1000.0" eqHz30="1000.0"
+                    eqHz31="1000.0" eqQ0="1.0" eqQ1="1.0" eqQ2="1.0" eqQ3="1.0" eqQ4="1.0"
+                    eqQ5="1.0" eqQ6="1.0" eqQ7="1.0" eqQ8="1.0" eqQ9="1.0" eqQ10="1.0"
+                    eqQ11="1.0" eqQ12="1.0" eqQ13="1.0" eqQ14="1.0" eqQ15="1.0" eqQ16="1.0"
+                    eqQ17="1.0" eqQ18="1.0" eqQ19="1.0" eqQ20="1.0" eqQ21="1.0" eqQ22="1.0"
+                    eqQ23="1.0" eqQ24="1.0" eqQ25="1.0" eqQ26="1.0" eqQ27="1.0" eqQ28="1.0"
+                    eqQ29="1.0" eqQ30="1.0" eqQ31="1.0" hpfHz0="0.0" hpfHz1="0.0"
+                    hpfHz2="0.0" hpfHz3="0.0" hpfHz4="0.0" hpfHz5="0.0" hpfHz6="0.0"
+                    hpfHz7="0.0" hpfHz8="0.0" hpfHz9="0.0" hpfHz10="0.0" hpfHz11="0.0"
+                    hpfHz12="0.0" hpfHz13="0.0" hpfHz14="0.0" hpfHz15="0.0" hpfHz16="0.0"
+                    hpfHz17="0.0" hpfHz18="0.0" hpfHz19="0.0" hpfHz20="0.0" hpfHz21="0.0"
+                    hpfHz22="0.0" hpfHz23="0.0" hpfHz24="0.0" hpfHz25="0.0" hpfHz26="0.0"
+                    hpfHz27="0.0" hpfHz28="0.0" hpfHz29="0.0" hpfHz30="0.0" hpfHz31="0.0"
+                    compThreshold0="0.0" compThreshold1="0.0" compThreshold2="0.0"
+                    compThreshold3="0.0" compThreshold4="0.0" compThreshold5="0.0"
+                    compThreshold6="0.0" compThreshold7="0.0" compThreshold8="0.0"
+                    compThreshold9="0.0" compThreshold10="0.0" compThreshold11="0.0"
+                    compThreshold12="0.0" compThreshold13="0.0" compThreshold14="0.0"
+                    compThreshold15="0.0" compThreshold16="0.0" compThreshold17="0.0"
+                    compThreshold18="0.0" compThreshold19="0.0" compThreshold20="0.0"
+                    compThreshold21="0.0" compThreshold22="0.0" compThreshold23="0.0"
+                    compThreshold24="0.0" compThreshold25="0.0" compThreshold26="0.0"
+                    compThreshold27="0.0" compThreshold28="0.0" compThreshold29="0.0"
+                    compThreshold30="0.0" compThreshold31="0.0" compRatio0="1.0"
+                    compRatio1="1.0" compRatio2="1.0" compRatio3="1.0" compRatio4="1.0"
+                    compRatio5="1.0" compRatio6="1.0" compRatio7="1.0" compRatio8="1.0"
+                    compRatio9="1.0" compRatio10="1.0" compRatio11="1.0" compRatio12="1.0"
+                    compRatio13="1.0" compRatio14="1.0" compRatio15="1.0" compRatio16="1.0"
+                    compRatio17="1.0" compRatio18="1.0" compRatio19="1.0" compRatio20="1.0"
+                    compRatio21="1.0" compRatio22="1.0" compRatio23="1.0" compRatio24="1.0"
+                    compRatio25="1.0" compRatio26="1.0" compRatio27="1.0" compRatio28="1.0"
+                    compRatio29="1.0" compRatio30="1.0" compRatio31="1.0" compAttack0="10.0"
+                    compAttack1="10.0" compAttack2="10.0" compAttack3="10.0" compAttack4="10.0"
+                    compAttack5="10.0" compAttack6="10.0" compAttack7="10.0" compAttack8="10.0"
+                    compAttack9="10.0" compAttack10="10.0" compAttack11="10.0" compAttack12="10.0"
+                    compAttack13="10.0" compAttack14="10.0" compAttack15="10.0" compAttack16="10.0"
+                    compAttack17="10.0" compAttack18="10.0" compAttack19="10.0" compAttack20="10.0"
+                    compAttack21="10.0" compAttack22="10.0" compAttack23="10.0" compAttack24="10.0"
+                    compAttack25="10.0" compAttack26="10.0" compAttack27="10.0" compAttack28="10.0"
+                    compAttack29="10.0" compAttack30="10.0" compAttack31="10.0" compRelease0="100.0"
+                    compRelease1="100.0" compRelease2="100.0" compRelease3="100.0"
+                    compRelease4="100.0" compRelease5="100.0" compRelease6="100.0"
+                    compRelease7="100.0" compRelease8="100.0" compRelease9="100.0"
+                    compRelease10="100.0" compRelease11="100.0" compRelease12="100.0"
+                    compRelease13="100.0" compRelease14="100.0" compRelease15="100.0"
+                    compRelease16="100.0" compRelease17="100.0" compRelease18="100.0"
+                    compRelease19="100.0" compRelease20="100.0" compRelease21="100.0"
+                    compRelease22="100.0" compRelease23="100.0" compRelease24="100.0"
+                    compRelease25="100.0" compRelease26="100.0" compRelease27="100.0"
+                    compRelease28="100.0" compRelease29="100.0" compRelease30="100.0"
+                    compRelease31="100.0" gateThreshold0="-100.0" gateThreshold1="-100.0"
+                    gateThreshold2="-100.0" gateThreshold3="-100.0" gateThreshold4="-100.0"
+                    gateThreshold5="-100.0" gateThreshold6="-100.0" gateThreshold7="-100.0"
+                    gateThreshold8="-100.0" gateThreshold9="-100.0" gateThreshold10="-100.0"
+                    gateThreshold11="-100.0" gateThreshold12="-100.0" gateThreshold13="-100.0"
+                    gateThreshold14="-100.0" gateThreshold15="-100.0" gateThreshold16="-100.0"
+                    gateThreshold17="-100.0" gateThreshold18="-100.0" gateThreshold19="-100.0"
+                    gateThreshold20="-100.0" gateThreshold21="-100.0" gateThreshold22="-100.0"
+                    gateThreshold23="-100.0" gateThreshold24="-100.0" gateThreshold25="-100.0"
+                    gateThreshold26="-100.0" gateThreshold27="-100.0" gateThreshold28="-100.0"
+                    gateThreshold29="-100.0" gateThreshold30="-100.0" gateThreshold31="-100.0"
+                    outputGain0="0.0" outputGain1="0.0" outputGain2="0.0" outputGain3="0.0"
+                    outputGain4="0.0" outputGain5="0.0" outputGain6="0.0" outputGain7="0.0"
+                    outputGain8="0.0" outputGain9="0.0" outputGain10="0.0" outputGain11="0.0"
+                    outputGain12="0.0" outputGain13="0.0" outputGain14="0.0" outputGain15="0.0"
+                    outputGain16="0.0" outputGain17="0.0" outputGain18="0.0" outputGain19="0.0"
+                    outputGain20="0.0" outputGain21="0.0" outputGain22="0.0" outputGain23="0.0"
+                    outputGain24="0.0" outputGain25="0.0" outputGain26="0.0" outputGain27="0.0"
+                    outputGain28="0.0" outputGain29="0.0" outputGain30="0.0" outputGain31="-9.0"
+                    outputDelay0="0.0" outputDelay1="0.0" outputDelay2="0.0" outputDelay3="0.0"
+                    outputDelay4="0.0" outputDelay5="0.0" outputDelay6="0.0" outputDelay7="0.0"
+                    outputDelay8="0.0" outputDelay9="0.0" outputDelay10="0.0" outputDelay11="0.0"
+                    outputDelay12="0.0" outputDelay13="0.0" outputDelay14="0.0" outputDelay15="0.0"
+                    outputDelay16="0.0" outputDelay17="0.0" outputDelay18="0.0" outputDelay19="0.0"
+                    outputDelay20="0.0" outputDelay21="0.0" outputDelay22="0.0" outputDelay23="0.0"
+                    outputDelay24="0.0" outputDelay25="0.0" outputDelay26="0.0" outputDelay27="0.0"
+                    outputDelay28="0.0" outputDelay29="0.0" outputDelay30="0.0" outputDelay31="0.0"
+                    outputPolarity0="1.0" outputPolarity1="1.0" outputPolarity2="1.0"
+                    outputPolarity3="1.0" outputPolarity4="1.0" outputPolarity5="1.0"
+                    outputPolarity6="1.0" outputPolarity7="1.0" outputPolarity8="1.0"
+                    outputPolarity9="1.0" outputPolarity10="1.0" outputPolarity11="1.0"
+                    outputPolarity12="1.0" outputPolarity13="1.0" outputPolarity14="1.0"
+                    outputPolarity15="1.0" outputPolarity16="1.0" outputPolarity17="1.0"
+                    outputPolarity18="1.0" outputPolarity19="1.0" outputPolarity20="1.0"
+                    outputPolarity21="1.0" outputPolarity22="1.0" outputPolarity23="1.0"
+                    outputPolarity24="1.0" outputPolarity25="1.0" outputPolarity26="1.0"
+                    outputPolarity27="1.0" outputPolarity28="1.0" outputPolarity29="1.0"
+                    outputPolarity30="1.0" outputPolarity31="1.0" outputCeiling0="0.0"
+                    outputCeiling1="0.0" outputCeiling2="0.0" outputCeiling3="0.0"
+                    outputCeiling4="0.0" outputCeiling5="0.0" outputCeiling6="0.0"
+                    outputCeiling7="0.0" outputCeiling8="0.0" outputCeiling9="0.0"
+                    outputCeiling10="0.0" outputCeiling11="0.0" outputCeiling12="0.0"
+                    outputCeiling13="0.0" outputCeiling14="0.0" outputCeiling15="0.0"
+                    outputCeiling16="0.0" outputCeiling17="0.0" outputCeiling18="0.0"
+                    outputCeiling19="0.0" outputCeiling20="0.0" outputCeiling21="0.0"
+                    outputCeiling22="0.0" outputCeiling23="0.0" outputCeiling24="0.0"
+                    outputCeiling25="0.0" outputCeiling26="0.0" outputCeiling27="0.0"
+                    outputCeiling28="0.0" outputCeiling29="0.0" outputCeiling30="0.0"
+                    outputCeiling31="0.0" fxSend0="0.0" fxSend1="0.0" fxSend2="0.0"
+                    fxSend3="0.4000000059604645" fxSend4="0.0" fxSend5="0.0" fxSend6="0.0"
+                    fxSend7="0.0" fxSend8="0.0" fxSend9="0.0" fxSend10="0.0" fxSend11="0.0"
+                    fxSend12="0.0" fxSend13="0.0" fxSend14="0.0" fxSend15="0.0" fxSend16="0.0"
+                    fxSend17="0.0" fxSend18="0.0" fxSend19="0.0" fxSend20="0.0" fxSend21="0.0"
+                    fxSend22="0.0" fxSend23="0.0" fxSend24="0.0" fxSend25="0.0" fxSend26="0.0"
+                    fxSend27="0.0" fxSend28="0.0" fxSend29="0.0" fxSend30="0.0" fxSend31="0.0"
+                    route0="1.0" route1="0.0" route2="0.0" route3="0.0" route4="0.0"
+                    route5="0.0" route6="0.0" route7="0.0" route8="0.0" route9="0.0"
+                    route10="0.0" route11="0.0" route12="0.0" route13="0.0" route14="0.0"
+                    route15="0.0" route16="0.0" route17="0.0" route18="0.0" route19="0.0"
+                    route20="0.0" route21="0.0" route22="0.0" route23="0.0" route24="0.0"
+                    route25="0.0" route26="0.0" route27="0.0" route28="0.0" route29="0.0"
+                    route30="0.0" route31="0.0" route32="0.0" route33="1.0" route34="0.0"
+                    route35="0.0" route36="0.0" route37="0.0" route38="0.0" route39="0.0"
+                    route40="0.0" route41="0.0" route42="0.0" route43="0.0" route44="0.0"
+                    route45="0.0" route46="0.0" route47="0.0" route48="0.0" route49="0.0"
+                    route50="0.0" route51="0.0" route52="0.0" route53="0.0" route54="0.0"
+                    route55="0.0" route56="0.0" route57="0.0" route58="0.0" route59="0.0"
+                    route60="0.0" route61="0.0" route62="0.0" route63="0.0" route64="0.0"
+                    route65="0.0" route66="1.0" route67="0.0" route68="0.0" route69="0.0"
+                    route70="0.0" route71="0.0" route72="0.0" route73="0.0" route74="0.0"
+                    route75="0.0" route76="0.0" route77="0.0" route78="0.0" route79="0.0"
+                    route80="0.0" route81="0.0" route82="0.0" route83="0.0" route84="0.0"
+                    route85="0.0" route86="0.0" route87="0.0" route88="0.0" route89="0.0"
+                    route90="0.0" route91="0.0" route92="0.0" route93="0.0" route94="0.0"
+                    route95="0.0" route96="0.0" route97="0.0" route98="0.0" route99="1.0"
+                    route100="0.0" route101="0.0" route102="0.0" route103="0.0" route104="0.0"
+                    route105="0.0" route106="0.0" route107="0.0" route108="0.0" route109="0.0"
+                    route110="0.0" route111="0.0" route112="0.0" route113="0.0" route114="0.0"
+                    route115="0.0" route116="0.0" route117="0.0" route118="0.0" route119="0.0"
+                    route120="0.0" route121="0.0" route122="0.0" route123="0.0" route124="0.0"
+                    route125="0.0" route126="0.0" route127="0.0" route128="0.0" route129="0.0"
+                    route130="0.0" route131="0.0" route132="1.0" route133="0.0" route134="0.0"
+                    route135="0.0" route136="0.0" route137="0.0" route138="0.0" route139="0.0"
+                    route140="0.0" route141="0.0" route142="0.0" route143="0.0" route144="0.0"
+                    route145="0.0" route146="0.0" route147="0.0" route148="0.0" route149="0.0"
+                    route150="0.0" route151="0.0" route152="0.0" route153="0.0" route154="0.0"
+                    route155="0.0" route156="0.0" route157="0.0" route158="0.0" route159="0.0"
+                    route160="0.0" route161="0.0" route162="0.0" route163="0.0" route164="0.0"
+                    route165="1.0" route166="0.0" route167="0.0" route168="0.0" route169="0.0"
+                    route170="0.0" route171="0.0" route172="0.0" route173="0.0" route174="0.0"
+                    route175="0.0" route176="0.0" route177="0.0" route178="0.0" route179="0.0"
+                    route180="0.0" route181="0.0" route182="0.0" route183="0.0" route184="0.0"
+                    route185="0.0" route186="0.0" route187="0.0" route188="0.0" route189="0.0"
+                    route190="0.0" route191="0.0" route192="0.0" route193="0.0" route194="0.0"
+                    route195="0.0" route196="0.0" route197="0.0" route198="1.0" route199="0.0"
+                    route200="0.0" route201="0.0" route202="0.0" route203="0.0" route204="0.0"
+                    route205="0.0" route206="0.0" route207="0.0" route208="0.0" route209="0.0"
+                    route210="0.0" route211="0.0" route212="0.0" route213="0.0" route214="0.0"
+                    route215="0.0" route216="0.0" route217="0.0" route218="0.0" route219="0.0"
+                    route220="0.0" route221="0.0" route222="0.0" route223="0.0" route224="0.0"
+                    route225="0.0" route226="0.0" route227="0.0" route228="0.0" route229="0.0"
+                    route230="0.0" route231="0.0" route232="0.0" route233="0.0" route234="0.0"
+                    route235="0.0" route236="0.0" route237="0.0" route238="0.0" route239="0.0"
+                    route240="0.0" route241="0.0" route242="0.0" route243="0.0" route244="0.0"
+                    route245="0.0" route246="0.0" route247="0.0" route248="0.0" route249="0.0"
+                    route250="0.0" route251="0.0" route252="0.0" route253="0.0" route254="0.0"
+                    route255="0.0" route256="0.0" route257="0.0" route258="0.0" route259="0.0"
+                    route260="0.0" route261="0.0" route262="0.0" route263="0.0" route264="1.0"
+                    route265="0.0" route266="0.0" route267="0.0" route268="0.0" route269="0.0"
+                    route270="0.0" route271="0.0" route272="0.0" route273="0.0" route274="0.0"
+                    route275="0.0" route276="0.0" route277="0.0" route278="0.0" route279="0.0"
+                    route280="0.0" route281="0.0" route282="0.0" route283="0.0" route284="0.0"
+                    route285="0.0" route286="0.0" route287="0.0" route288="0.0" route289="0.0"
+                    route290="0.0" route291="0.0" route292="0.0" route293="0.0" route294="0.0"
+                    route295="0.0" route296="0.0" route297="1.0" route298="0.0" route299="0.0"
+                    route300="0.0" route301="0.0" route302="0.0" route303="0.0" route304="0.0"
+                    route305="0.0" route306="0.0" route307="0.0" route308="0.0" route309="0.0"
+                    route310="0.0" route311="0.0" route312="0.0" route313="0.0" route314="0.0"
+                    route315="0.0" route316="0.0" route317="0.0" route318="0.0" route319="0.0"
+                    route320="0.0" route321="0.0" route322="0.0" route323="0.0" route324="0.0"
+                    route325="0.0" route326="0.0" route327="0.0" route328="0.0" route329="0.0"
+                    route330="1.0" route331="0.0" route332="0.0" route333="0.0" route334="0.0"
+                    route335="0.0" route336="0.0" route337="0.0" route338="0.0" route339="0.0"
+                    route340="0.0" route341="0.0" route342="0.0" route343="0.0" route344="0.0"
+                    route345="0.0" route346="0.0" route347="0.0" route348="0.0" route349="0.0"
+                    route350="0.0" route351="0.0" route352="0.0" route353="0.0" route354="0.0"
+                    route355="0.0" route356="0.0" route357="0.0" route358="0.0" route359="0.0"
+                    route360="0.0" route361="0.0" route362="0.0" route363="1.0" route364="0.0"
+                    route365="0.0" route366="0.0" route367="0.0" route368="0.0" route369="0.0"
+                    route370="0.0" route371="0.0" route372="0.0" route373="0.0" route374="0.0"
+                    route375="0.0" route376="0.0" route377="0.0" route378="0.0" route379="0.0"
+                    route380="0.0" route381="0.0" route382="0.0" route383="0.0" route384="0.0"
+                    route385="0.0" route386="0.0" route387="0.0" route388="0.0" route389="0.0"
+                    route390="0.0" route391="0.0" route392="0.0" route393="0.0" route394="0.0"
+                    route395="0.0" route396="1.0" route397="0.0" route398="0.0" route399="0.0"
+                    route400="0.0" route401="0.0" route402="0.0" route403="0.0" route404="0.0"
+                    route405="0.0" route406="0.0" route407="0.0" route408="0.0" route409="0.0"
+                    route410="0.0" route411="0.0" route412="0.0" route413="0.0" route414="0.0"
+                    route415="0.0" route416="0.0" route417="0.0" route418="0.0" route419="0.0"
+                    route420="0.0" route421="0.0" route422="0.0" route423="0.0" route424="0.0"
+                    route425="0.0" route426="0.0" route427="0.0" route428="0.0" route429="1.0"
+                    route430="0.0" route431="0.0" route432="0.0" route433="0.0" route434="0.0"
+                    route435="0.0" route436="0.0" route437="0.0" route438="0.0" route439="0.0"
+                    route440="0.0" route441="0.0" route442="0.0" route443="0.0" route444="0.0"
+                    route445="0.0" route446="0.0" route447="0.0" route448="0.0" route449="0.0"
+                    route450="0.0" route451="0.0" route452="0.0" route453="0.0" route454="0.0"
+                    route455="0.0" route456="0.0" route457="0.0" route458="0.0" route459="0.0"
+                    route460="0.0" route461="0.0" route462="1.0" route463="0.0" route464="0.0"
+                    route465="0.0" route466="0.0" route467="0.0" route468="0.0" route469="0.0"
+                    route470="0.0" route471="0.0" route472="0.0" route473="0.0" route474="0.0"
+                    route475="0.0" route476="0.0" route477="0.0" route478="0.0" route479="0.0"
+                    route480="0.0" route481="0.0" route482="0.0" route483="0.0" route484="0.0"
+                    route485="0.0" route486="0.0" route487="0.0" route488="0.0" route489="0.0"
+                    route490="0.0" route491="0.0" route492="0.0" route493="0.0" route494="0.0"
+                    route495="1.0" route496="0.0" route497="0.0" route498="0.0" route499="0.0"
+                    route500="0.0" route501="0.0" route502="0.0" route503="0.0" route504="0.0"
+                    route505="0.0" route506="0.0" route507="0.0" route508="0.0" route509="0.0"
+                    route510="0.0" route511="0.0" route512="0.0" route513="0.0" route514="0.0"
+                    route515="0.0" route516="0.0" route517="0.0" route518="0.0" route519="0.0"
+                    route520="0.0" route521="0.0" route522="0.0" route523="0.0" route524="0.0"
+                    route525="0.0" route526="0.0" route527="0.0" route528="1.0" route529="0.0"
+                    route530="0.0" route531="0.0" route532="0.0" route533="0.0" route534="0.0"
+                    route535="0.0" route536="0.0" route537="0.0" route538="0.0" route539="0.0"
+                    route540="0.0" route541="0.0" route542="0.0" route543="0.0" route544="0.0"
+                    route545="0.0" route546="0.0" route547="0.0" route548="0.0" route549="0.0"
+                    route550="0.0" route551="0.0" route552="0.0" route553="0.0" route554="0.0"
+                    route555="0.0" route556="0.0" route557="0.0" route558="0.0" route559="0.0"
+                    route560="0.0" route561="1.0" route562="0.0" route563="0.0" route564="0.0"
+                    route565="0.0" route566="0.0" route567="0.0" route568="0.0" route569="0.0"
+                    route570="0.0" route571="0.0" route572="0.0" route573="0.0" route574="0.0"
+                    route575="0.0" route576="0.0" route577="0.0" route578="0.0" route579="0.0"
+                    route580="0.0" route581="0.0" route582="0.0" route583="0.0" route584="0.0"
+                    route585="0.0" route586="0.0" route587="0.0" route588="0.0" route589="0.0"
+                    route590="0.0" route591="0.0" route592="0.0" route593="0.0" route594="1.0"
+                    route595="0.0" route596="0.0" route597="0.0" route598="0.0" route599="0.0"
+                    route600="0.0" route601="0.0" route602="0.0" route603="0.0" route604="0.0"
+                    route605="0.0" route606="0.0" route607="0.0" route608="0.0" route609="0.0"
+                    route610="0.0" route611="0.0" route612="0.0" route613="0.0" route614="0.0"
+                    route615="0.0" route616="0.0" route617="0.0" route618="0.0" route619="0.0"
+                    route620="0.0" route621="0.0" route622="0.0" route623="0.0" route624="0.0"
+                    route625="0.0" route626="0.0" route627="1.0" route628="0.0" route629="0.0"
+                    route630="0.0" route631="0.0" route632="0.0" route633="0.0" route634="0.0"
+                    route635="0.0" route636="0.0" route637="0.0" route638="0.0" route639="0.0"
+                    route640="0.0" route641="0.0" route642="0.0" route643="0.0" route644="0.0"
+                    route645="0.0" route646="0.0" route647="0.0" route648="0.0" route649="0.0"
+                    route650="0.0" route651="0.0" route652="0.0" route653="0.0" route654="0.0"
+                    route655="0.0" route656="0.0" route657="0.0" route658="0.0" route659="0.0"
+                    route660="1.0" route661="0.0" route662="0.0" route663="0.0" route664="0.0"
+                    route665="0.0" route666="0.0" route667="0.0" route668="0.0" route669="0.0"
+                    route670="0.0" route671="0.0" route672="0.0" route673="0.0" route674="0.0"
+                    route675="0.0" route676="0.0" route677="0.0" route678="0.0" route679="0.0"
+                    route680="0.0" route681="0.0" route682="0.0" route683="0.0" route684="0.0"
+                    route685="0.0" route686="0.0" route687="0.0" route688="0.0" route689="0.0"
+                    route690="0.0" route691="0.0" route692="0.0" route693="1.0" route694="0.0"
+                    route695="0.0" route696="0.0" route697="0.0" route698="0.0" route699="0.0"
+                    route700="0.0" route701="0.0" route702="0.0" route703="0.0" route704="0.0"
+                    route705="0.0" route706="0.0" route707="0.0" route708="0.0" route709="0.0"
+                    route710="0.0" route711="0.0" route712="0.0" route713="0.0" route714="0.0"
+                    route715="0.0" route716="0.0" route717="0.0" route718="0.0" route719="0.0"
+                    route720="0.0" route721="0.0" route722="0.0" route723="0.0" route724="0.0"
+                    route725="0.0" route726="1.0" route727="0.0" route728="0.0" route729="0.0"
+                    route730="0.0" route731="0.0" route732="0.0" route733="0.0" route734="0.0"
+                    route735="0.0" route736="0.0" route737="0.0" route738="0.0" route739="0.0"
+                    route740="0.0" route741="0.0" route742="0.0" route743="0.0" route744="0.0"
+                    route745="0.0" route746="0.0" route747="0.0" route748="0.0" route749="0.0"
+                    route750="0.0" route751="0.0" route752="0.0" route753="0.0" route754="0.0"
+                    route755="0.0" route756="0.0" route757="0.0" route758="0.0" route759="1.0"
+                    route760="0.0" route761="0.0" route762="0.0" route763="0.0" route764="0.0"
+                    route765="0.0" route766="0.0" route767="0.0" route768="0.0" route769="0.0"
+                    route770="0.0" route771="0.0" route772="0.0" route773="0.0" route774="0.0"
+                    route775="0.0" route776="0.0" route777="0.0" route778="0.0" route779="0.0"
+                    route780="0.0" route781="0.0" route782="0.0" route783="0.0" route784="0.0"
+                    route785="0.0" route786="0.0" route787="0.0" route788="0.0" route789="0.0"
+                    route790="0.0" route791="0.0" route792="1.0" route793="0.0" route794="0.0"
+                    route795="0.0" route796="0.0" route797="0.0" route798="0.0" route799="0.0"
+                    route800="0.0" route801="0.0" route802="0.0" route803="0.0" route804="0.0"
+                    route805="0.0" route806="0.0" route807="0.0" route808="0.0" route809="0.0"
+                    route810="0.0" route811="0.0" route812="0.0" route813="0.0" route814="0.0"
+                    route815="0.0" route816="0.0" route817="0.0" route818="0.0" route819="0.0"
+                    route820="0.0" route821="0.0" route822="0.0" route823="0.0" route824="0.0"
+                    route825="1.0" route826="0.0" route827="0.0" route828="0.0" route829="0.0"
+                    route830="0.0" route831="0.0" route832="0.0" route833="0.0" route834="0.0"
+                    route835="0.0" route836="0.0" route837="0.0" route838="0.0" route839="0.0"
+                    route840="0.0" route841="0.0" route842="0.0" route843="0.0" route844="0.0"
+                    route845="0.0" route846="0.0" route847="0.0" route848="0.0" route849="0.0"
+                    route850="0.0" route851="0.0" route852="0.0" route853="0.0" route854="0.0"
+                    route855="0.0" route856="0.0" route857="0.0" route858="1.0" route859="0.0"
+                    route860="0.0" route861="0.0" route862="0.0" route863="0.0" route864="0.0"
+                    route865="0.0" route866="0.0" route867="0.0" route868="0.0" route869="0.0"
+                    route870="0.0" route871="0.0" route872="0.0" route873="0.0" route874="0.0"
+                    route875="0.0" route876="0.0" route877="0.0" route878="0.0" route879="0.0"
+                    route880="0.0" route881="0.0" route882="0.0" route883="0.0" route884="0.0"
+                    route885="0.0" route886="0.0" route887="0.0" route888="0.0" route889="0.0"
+                    route890="0.0" route891="1.0" route892="0.0" route893="0.0" route894="0.0"
+                    route895="0.0" route896="0.0" route897="0.0" route898="0.0" route899="0.0"
+                    route900="0.0" route901="0.0" route902="0.0" route903="0.0" route904="0.0"
+                    route905="0.0" route906="0.0" route907="0.0" route908="0.0" route909="0.0"
+                    route910="0.0" route911="0.0" route912="0.0" route913="0.0" route914="0.0"
+                    route915="0.0" route916="0.0" route917="0.0" route918="0.0" route919="0.0"
+                    route920="0.0" route921="0.0" route922="0.0" route923="0.0" route924="1.0"
+                    route925="0.0" route926="0.0" route927="0.0" route928="0.0" route929="0.0"
+                    route930="0.0" route931="0.0" route932="0.0" route933="0.0" route934="0.0"
+                    route935="0.0" route936="0.0" route937="0.0" route938="0.0" route939="0.0"
+                    route940="0.0" route941="0.0" route942="0.0" route943="0.0" route944="0.0"
+                    route945="0.0" route946="0.0" route947="0.0" route948="0.0" route949="0.0"
+                    route950="0.0" route951="0.0" route952="0.0" route953="0.0" route954="0.0"
+                    route955="0.0" route956="0.0" route957="1.0" route958="0.0" route959="0.0"
+                    route960="0.0" route961="0.0" route962="0.0" route963="0.0" route964="0.0"
+                    route965="0.0" route966="0.0" route967="0.0" route968="0.0" route969="0.0"
+                    route970="0.0" route971="0.0" route972="0.0" route973="0.0" route974="0.0"
+                    route975="0.0" route976="0.0" route977="0.0" route978="0.0" route979="0.0"
+                    route980="0.0" route981="0.0" route982="0.0" route983="0.0" route984="0.0"
+                    route985="0.0" route986="0.0" route987="0.0" route988="0.0" route989="0.0"
+                    route990="1.0" route991="0.0" route992="0.0" route993="0.0" route994="0.0"
+                    route995="0.0" route996="0.0" route997="0.0" route998="0.0" route999="0.5"
+                    route1000="0.0" route1001="0.0" route1002="0.0" route1003="0.0"
+                    route1004="0.0" route1005="0.0" route1006="0.0" route1007="0.0"
+                    route1008="0.0" route1009="0.0" route1010="0.0" route1011="0.0"
+                    route1012="0.0" route1013="0.0" route1014="0.0" route1015="0.0"
+                    route1016="0.0" route1017="0.0" route1018="0.0" route1019="0.0"
+                    route1020="0.0" route1021="0.0" route1022="0.0" route1023="1.0"
+                    delayReturn="0.0" reverbReturn="0.0" fxDelayMs="437.0" fxFeedback="0.300000011920929"
+                    referenceChannel="6" measurementChannel="7">
+  <ChannelNames>
+    <Channel index="0" name="Input 1"/>
+    <Channel index="1" name="Input 2"/>
+    <Channel index="2" name="Input 3"/>
+    <Channel index="3" name="Input 4"/>
+    <Channel index="4" name="Input 5"/>
+    <Channel index="5" name="Input 6"/>
+    <Channel index="6" name="Input 7"/>
+    <Channel index="7" name="Gi&#7885;ng h&#225;t ch&#237;nh"/>
+    <Channel index="8" name="Input 9"/>
+    <Channel index="9" name="Input 10"/>
+    <Channel index="10" name="Input 11"/>
+    <Channel index="11" name="Input 12"/>
+    <Channel index="12" name="Input 13"/>
+    <Channel index="13" name="Input 14"/>
+    <Channel index="14" name="Input 15"/>
+    <Channel index="15" name="Input 16"/>
+    <Channel index="16" name="Input 17"/>
+    <Channel index="17" name="Input 18"/>
+    <Channel index="18" name="Input 19"/>
+    <Channel index="19" name="Input 20"/>
+    <Channel index="20" name="Input 21"/>
+    <Channel index="21" name="Input 22"/>
+    <Channel index="22" name="Input 23"/>
+    <Channel index="23" name="Input 24"/>
+    <Channel index="24" name="Input 25"/>
+    <Channel index="25" name="Input 26"/>
+    <Channel index="26" name="Input 27"/>
+    <Channel index="27" name="Input 28"/>
+    <Channel index="28" name="Input 29"/>
+    <Channel index="29" name="Input 30"/>
+    <Channel index="30" name="Input 31"/>
+    <Channel index="31" name="Input 32"/>
+  </ChannelNames>
+  <BuiltinRack schema="2">
+    <Slot channel="0" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="0" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="0" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="0" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="1" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="1" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="1" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="1" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="2" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="2" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="2" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="2" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="3" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="3" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="3" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="3" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="4" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="4" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="4" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="4" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="5" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="5" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="5" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="5" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="6" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="6" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="6" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="6" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="7" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="7" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="7" slot="2" module="16" enabled="1" p0="35.0" p1="1.0"
+          p2="0.5" p3="7.0" p4="100.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="7" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="8" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="8" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="8" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="8" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="9" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="9" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="9" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="9" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="10" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="10" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="10" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="10" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="11" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="11" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="11" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="11" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="12" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="12" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="12" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="12" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="13" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="13" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="13" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="13" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="14" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="14" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="14" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="14" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="15" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="15" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="15" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="15" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="16" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="16" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="16" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="16" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="17" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="17" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="17" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="17" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="18" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="18" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="18" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="18" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="19" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="19" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="19" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="19" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="20" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="20" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="20" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="20" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="21" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="21" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="21" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="21" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="22" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="22" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="22" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="22" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="23" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="23" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="23" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="23" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="24" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="24" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="24" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="24" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="25" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="25" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="25" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="25" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="26" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="26" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="26" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="26" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="27" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="27" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="27" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="27" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="28" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="28" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="28" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="28" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="29" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="29" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="29" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="29" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="30" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="30" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="30" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="30" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="31" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="31" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="31" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="31" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+  </BuiltinRack>
+  <OutputBuiltinRack schema="2">
+    <Slot channel="0" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="0" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="0" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="0" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="1" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="1" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="1" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="1" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="2" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="2" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="2" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="2" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="3" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="3" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="3" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="3" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="4" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="4" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="4" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="4" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="5" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="5" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="5" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="5" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="6" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="6" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="6" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="6" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="7" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="7" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="7" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="7" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="8" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="8" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="8" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="8" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="9" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="9" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="9" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="9" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="10" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="10" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="10" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="10" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="11" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="11" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="11" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="11" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="12" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="12" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="12" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="12" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="13" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="13" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="13" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="13" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="14" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="14" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="14" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="14" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="15" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="15" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="15" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="15" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="16" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="16" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="16" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="16" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="17" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="17" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="17" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="17" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="18" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="18" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="18" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="18" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="19" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="19" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="19" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="19" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="20" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="20" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="20" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="20" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="21" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="21" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="21" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="21" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="22" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="22" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="22" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="22" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="23" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="23" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="23" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="23" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="24" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="24" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="24" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="24" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="25" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="25" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="25" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="25" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="26" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="26" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="26" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="26" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="27" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="27" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="27" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="27" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="28" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="28" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="28" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="28" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="29" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="29" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="29" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="29" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="30" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="30" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="30" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="30" slot="3" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="31" slot="0" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="31" slot="1" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="31" slot="2" module="0" enabled="0" p0="0.0" p1="0.0"
+          p2="0.0" p3="0.0" p4="0.0" p5="0.0" extendedEq="0" eqInitialized="0"/>
+    <Slot channel="31" slot="3" module="5" enabled="1" p0="20.0" p1="0.0"
+          p2="1000.0" p3="0.0" p4="1.0" p5="0.0" extendedEq="1" eqInitialized="1">
+      <EqBand index="0" enabled="1" type="0" frequency="60.0" gainDb="-4.0"
+              q="0.699999988079071"/>
+      <EqBand index="1" enabled="1" type="1" frequency="120.0" gainDb="-3.0"
+              q="0.800000011920929"/>
+      <EqBand index="2" enabled="1" type="2" frequency="180.0" gainDb="-2.0"
+              q="0.8999999761581421"/>
+      <EqBand index="3" enabled="1" type="3" frequency="240.0" gainDb="-1.0"
+              q="1.0"/>
+      <EqBand index="4" enabled="1" type="4" frequency="300.0" gainDb="0.0"
+              q="1.100000023841858"/>
+      <EqBand index="5" enabled="1" type="0" frequency="360.0" gainDb="1.0"
+              q="1.200000047683716"/>
+      <EqBand index="6" enabled="1" type="1" frequency="420.0" gainDb="2.0"
+              q="1.299999952316284"/>
+      <EqBand index="7" enabled="1" type="2" frequency="480.0" gainDb="3.0"
+              q="1.399999976158142"/>
+    </Slot>
+  </OutputBuiltinRack>
+  <BusMaster schema="1" enabled="1" masterMute="0" left="6" right="7" gainL="0.0"
+             gainR="0.0">
+    <Source index="0" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="1" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="2" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="3" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="4" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="5" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="6" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="7" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.699999988079071"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="8" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="9" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0" b4="0.0"
+            b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="10" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="11" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="12" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="13" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="14" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="15" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="16" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="17" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="18" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="19" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="20" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="21" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="22" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="23" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="24" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="25" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="26" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="27" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="28" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="29" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="30" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Source index="31" master="0.0" pan="0.0" b1="0.0" b2="0.0" b3="0.0"
+            b4="0.0" b5="0.0" b6="0.0" b7="0.0" b8="0.0"/>
+    <Bus index="0" gain="0.0" mute="0.0" pan="0.0" master="1.0" out="-1"/>
+    <Bus index="1" gain="0.0" mute="0.0" pan="0.0" master="1.0" out="-1"/>
+    <Bus index="2" gain="0.0" mute="0.0" pan="0.0" master="1.0" out="-1"/>
+    <Bus index="3" gain="-3.0" mute="0.0" pan="0.0" master="1.0" out="-1"/>
+    <Bus index="4" gain="0.0" mute="0.0" pan="0.0" master="1.0" out="-1"/>
+    <Bus index="5" gain="0.0" mute="0.0" pan="0.0" master="1.0" out="-1"/>
+    <Bus index="6" gain="0.0" mute="0.0" pan="0.0" master="1.0" out="-1"/>
+    <Bus index="7" gain="0.0" mute="0.0" pan="0.0" master="1.0" out="-1"/>
+  </BusMaster>
+</LiveAudioHostScene>

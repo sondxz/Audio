@@ -1,0 +1,14 @@
+/build/
+/build-core/
+/build-*/
+/.tools/
+/release-v07/
+/artifacts/
+__pycache__/
+/dist/
+/.vs/
+/.cache/
+/out/
+*.user
+*.VC.db
+.DS_Store

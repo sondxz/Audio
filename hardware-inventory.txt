@@ -1,0 +1,16 @@
+INVENTORY ONLY (not JUCE/ASIO stream validation): 2026-10-22T16:00:01.6554066+07:00
+
+Caption        : Microsoft Windows 11 Pro
+Version        : 10.0.26100
+OSArchitecture : 64-bit
+
+
+
+REGISTERED ASIO DRIVERS (registration does not establish device connectivity):
+
+Registry                        Driver
+--------                        ------
+HKLM:\SOFTWARE\ASIO             M-Audio AIR 192 4 ASIO
+HKLM:\SOFTWARE\WOW6432Node\ASIO M-Audio AIR 192 4 ASIO
+
+

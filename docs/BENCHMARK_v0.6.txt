@@ -1,0 +1,3 @@
+OFFLINE SYNTHETIC BENCHMARK — not ASIO realtime evidence
+32x32 dense mixer + 2ch 257-tap FIR, 48 kHz, 128 frames
+p50=223.569 us, p99=984.78 us, max=2626.14 us; callback period=2666.67 us (EXCLUDES driver/OS, UI and VST3)
